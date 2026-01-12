@@ -20,7 +20,8 @@ from .. import loader, utils
 
 logger = logging.getLogger(__name__)
 
-UPDATE_URL = "https://raw.githubusercontent.com/vbhhhgfddhy/Clan-module/main/ClanAdvertMod.py"
+UPDATE_URL = "https://raw.githubusercontent.com/vbhhhgfddhy/Clan-module-/main/Clan.py"
+"
 
 MSK = timezone(timedelta(hours=3))
 
